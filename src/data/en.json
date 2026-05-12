@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "title": "Hello, I'm Wai Yan Naing👋",
+    "subtitle": "Inventing, illustrating, and capturing beauty."
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "description1": "I am a <1>Computer Science student</1> passionate about web development and creative design. I love building projects that blend technology, and art.",
+    "description2": "Currently, I am exploring interactive front-end experiences and experimenting with machine learning.",
+    "quote": "I want to create experiences that inspire people and bring a smile to their faces.",
+    "btnDownload": "Download CV",
+    "btnContact": "Contact Me"
+  },
+  "skills": {
+    "title": "Tech Stacks and Tools",
+    "frontend": "Frontend Development",
+    "backend": "Backend & Database",
+    "tools": "Cybersecurity & Tools"
+  },
+  "education": {
+    "title": "Education",
+    "university": "University Of Computer Studies (Taungoo)",
+    "uni": "UCSTGO",
+    "educatedYear": "2022 - Present"
+  },
+  "project": {
+    "title": "Projects",
+    "prj-0": "Love Note",
+    "prj-1": "Terminal Portfolio",
+    "prj-2": "Todo-App"
+  }
+}
