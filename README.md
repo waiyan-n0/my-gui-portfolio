@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This project serves as a dual-purpose platform: a professional GUI-based showcase of my work and a dedicated space where I document my journey mastering the React ecosystem.
 ## Live Demo
-Click here(https://waiyannaingdev.vercel.app/)
+[Click here](https://waiyannaingdev.vercel.app/)
 
 ## 📋 Project Overview
 
