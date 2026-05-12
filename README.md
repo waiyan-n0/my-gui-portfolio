@@ -36,9 +36,7 @@ The primary goal of this project is to bridge the gap between academic learning 
 - Desktop View
 <img width="1919" height="1023" alt="demo1" src="https://github.com/user-attachments/assets/8b8fc153-ab9c-4d8c-ab49-ef940a298a0b" />
 - Mobile View
-<iframe width="560" height="315" 
-  src="[https://www.youtube.com/embed/VIDEO_ID](https://github.com/user-attachments/assets/6cbedf6f-6dd3-4234-8db1-10bfe677b736)" frameborder="0" allowfullscreen>
-</iframe>
+<img width="576" height="1280" alt="mobileDemo1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0f68fdd4-661d-4021-ac77-e15b111b326c" />
 
 
 ## 🚀 Learning Roadmap
