@@ -36,7 +36,14 @@ The primary goal of this project is to bridge the gap between academic learning 
 - Desktop View
 <img width="1919" height="1023" alt="demo1" src="https://github.com/user-attachments/assets/8b8fc153-ab9c-4d8c-ab49-ef940a298a0b" />
 - Mobile View
-https://github.com/user-attachments/assets/6cbedf6f-6dd3-4234-8db1-10bfe677b736
+- <iframe 
+  width="560" 
+  height="315" 
+  src="[https://www.youtube.com/embed/VIDEO_ID](https://github.com/user-attachments/assets/6cbedf6f-6dd3-4234-8db1-10bfe677b736)" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>Copied!   
+
 
 
 
