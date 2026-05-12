@@ -32,6 +32,14 @@ The primary goal of this project is to bridge the gap between academic learning 
 - **Responsive Design:** Optimized for all screen sizes, from mobile devices to large desktops.
 - **Intro Loading Screen:** A custom-timed 2-second system initialization animation for a premium feel.
 
+## 🖼️ Screenshots
+- Desktop View
+<img width="1919" height="1023" alt="demo1" src="https://github.com/user-attachments/assets/8b8fc153-ab9c-4d8c-ab49-ef940a298a0b" />
+- Mobile View
+https://github.com/user-attachments/assets/6cbedf6f-6dd3-4234-8db1-10bfe677b736
+
+
+
 ## 🚀 Learning Roadmap
 
 This project is a milestone in my React learning path. It specifically showcases my implementation of:
