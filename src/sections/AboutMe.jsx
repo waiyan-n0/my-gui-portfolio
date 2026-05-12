@@ -23,7 +23,7 @@ const AboutMe = () => {
                     </p>
                 </div>
                 <span className='flex flex-row pt-4 gap-4'>
-                <a href="./../../public/myResume.pdf" target='_blank' rel="noopener noreferrer" download="WaiYanNaing_CV.pdf"
+                <a href="/myResume.pdf" target='_blank' rel="noopener noreferrer" download="WaiYanNaing_CV.pdf"
                    className='py-2 px-6 bg-amber-400 rounded-xl font-semibold hover:bg-amber-500 w-32 text-xs md:text-lg md:w-auto text-black'>
                     {t('aboutMe.btnDownload')}
                 </a>
