@@ -33,7 +33,7 @@ The primary goal of this project is to bridge the gap between academic learning 
 ## 🚀 Learning Roadmap
 
 This project is a milestone in my React learning path. It specifically showcases my implementation of:
-- Advanced React Hooks (`useReducer`, `useContext`, `useRef`).
+- Advanced React Hooks (`useState`, `useRef`,etc...).
 - Custom Hooks for window resizing and event handling.
 - Complex state management for UI/UX elements.
 - Component-based architecture for scalability.
