@@ -11,7 +11,7 @@ The primary goal of this project is to bridge the gap between academic learning 
 - Preparing for professional internship opportunities.
 - Demonstrating a "Job-Ready" mindset through clean code and UI/UX best practices.
 - Hosting an interactive, downloadable version of my professional Resume.
-- 
+  
 ## 🛠️ Tech Stack
 
 *   **Frontend:** [React](https://reactjs.org/) (Functional Components, Hooks)
@@ -41,8 +41,7 @@ This project is a milestone in my React learning path. It specifically showcases
 ## ⚙️ Getting Started
 
 To run this project locally, follow these steps:
-
-1. **Clone the repository:**
+1**Clone the repository:**
    ```bash
    git clone []
    ```
