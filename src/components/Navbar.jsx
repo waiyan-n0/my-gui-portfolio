@@ -61,7 +61,7 @@ const Navbar = ({theme, toggleTheme,}) => {
 
             <div className="flex flex-row md:flex-col space-x-4 md:space-x-0 md:space-y-6 items-center">
                 <Tooltip text="GitHub Profile" position={currentWindowSize}>
-                    <a href="https://github.com/WaiYanNaing" target="_blank" className="hover:text-gray-400">
+                    <a href="https://github.com/waiyan-n0" target="_blank" className="hover:text-gray-400">
                         <FaGithub size={28}/>
                     </a>
                 </Tooltip>
@@ -83,7 +83,7 @@ const Navbar = ({theme, toggleTheme,}) => {
                         size={28}/></a>
                 </Tooltip>
                 <Tooltip text='Download CV' position={currentWindowSize}>
-                    <a href="../assets/myResume.pdf" download="WaiYanNaing's Resume.pdf" className="transition-transform hover:scale-110"><TbFileCvFilled
+                    <a href="/myResume.pdf" target='_blank' rel="noopener noreferrer" download="WaiYanNaing_CV.pdf" className="transition-transform hover:scale-110"><TbFileCvFilled
                         size={28}/></a>
                 </Tooltip>
             </div>
