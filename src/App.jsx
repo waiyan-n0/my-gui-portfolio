@@ -8,6 +8,7 @@ import Education from "./sections/Education.jsx";
 import Skill from "./sections/Skill.jsx";
 import Project from "./sections/Project.jsx";
 import Footer from './sections/Footer.jsx';
+import Hamburger from "./sections/Hamburger.jsx";
 
 function App() {
     const [isLoading, setIsLoading] = useState(true);
@@ -45,11 +46,12 @@ function App() {
             <AnimatePresence mode="wait">
                 {isLoading && <LoadingScreen key="loader" />}
             </AnimatePresence>
+            <Hamburger/>
             <Navbar theme={theme} toggleTheme={toggleTheme}/>
             <Hero theme={theme}/>
-            <Education/>
-            <Skill/>
-            <Project/>
+            <Education />
+            <Skill />
+            <Project />
             <Footer/>
         </div>
     );

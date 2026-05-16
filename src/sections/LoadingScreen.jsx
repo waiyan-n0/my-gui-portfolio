@@ -1,8 +1,9 @@
 import { motion } from "framer-motion";
+import { PiCoffeeFill } from "react-icons/pi";
 
 const LoadingScreen = () => {
     const name = "WAI YAN NAING.DEV";
-    const letters = Array.from(name);
+    const letters = [...Array.from(name),<PiCoffeeFill/>];
 
     const containerVariants = {
         exit: {
@@ -17,8 +18,8 @@ const LoadingScreen = () => {
             opacity: 1,
             transition: {
                 type: "spring",
-                damping: 10,
-                stiffness: 100
+                damping: 15,
+                stiffness: 150
             }
         }
     };

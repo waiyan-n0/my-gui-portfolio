@@ -9,8 +9,8 @@ const Skill = () => {
 
     return (
         <Reveal>
-            <section className='p-8 md:px-16 max-w-7xl mx-auto'>
-                <h1 className='text-xl font-semibold border-b-2 border-amber-400 w-fit mb-4'>
+            <section className='p-8 md:px-16 max-w-7xl mx-auto scroll-mt-24' id="skills">
+                <h1 className='text-xl font-semibold border-b-2 border-blue-500 w-fit mb-4'>
                     {t('skills.title')}
                 </h1>
 
@@ -20,10 +20,10 @@ const Skill = () => {
                             {t('skills.frontend')}
                         </label>
                         <div className='flex flex-wrap gap-2'>
-                            <SkillBadge icon={FaHtml5} name="HTML5" hoverColor="group-hover:text-orange-500"/>
-                            <SkillBadge icon={FaCss3} name="CSS3" hoverColor="group-hover:text-blue-500"/>
-                            <SkillBadge icon={FaJs} name="JavaScript" hoverColor="group-hover:text-yellow-400"/>
-                            <SkillBadge icon={FaReact} name="React" hoverColor="group-hover:text-cyan-400"/>
+                            <SkillBadge icon={FaHtml5} name="HTML5" percentage={100} hoverColor="group-hover:text-orange-500"/>
+                            <SkillBadge icon={FaCss3} name="CSS3" percentage={100} hoverColor="group-hover:text-blue-500"/>
+                            <SkillBadge icon={FaJs} name="JavaScript" percentage={70} hoverColor="group-hover:text-yellow-400"/>
+                            <SkillBadge icon={FaReact} name="React" percentage={50} hoverColor="group-hover:text-cyan-400"/>
                         </div>
                     </div>
 
@@ -32,12 +32,12 @@ const Skill = () => {
                             {t('skills.backend')}
                         </label>
                         <div className="flex flex-wrap gap-2">
-                            <SkillBadge icon={FaPhp} name="PHP" hoverColor="group-hover:text-purple-500"/>
-                            <SkillBadge icon={FaPython} name="Python" hoverColor="group-hover:text-blue-400"/>
-                            <SkillBadge icon={FaNodeJs} name="NodeJS" hoverColor="group-hover:text-green-500"/>
-                            <SkillBadge icon={DiMongodb} name="MongoDB" hoverColor="group-hover:text-green-600"/>
-                            <SkillBadge icon={DiPostgresql} name="Postgresql" hoverColor="group-hover:text-green-600"/>
-                            <SkillBadge icon={DiMysql} name="MySQL" hoverColor="group-hover:text-blue-600"/>
+                            <SkillBadge icon={FaPhp} name="PHP" percentage={60} hoverColor="group-hover:text-purple-500"/>
+                            <SkillBadge icon={FaPython} name="Python" percentage={60} hoverColor="group-hover:text-blue-400"/>
+                            <SkillBadge icon={FaNodeJs} name="NodeJS" percentage={20} hoverColor="group-hover:text-green-500"/>
+                            <SkillBadge icon={DiMongodb} name="MongoDB" percentage={20} hoverColor="group-hover:text-green-600"/>
+                            <SkillBadge icon={DiPostgresql} name="Postgresql" percentage={20} hoverColor="group-hover:text-green-600"/>
+                            <SkillBadge icon={DiMysql} name="MySQL" percentage={60} hoverColor="group-hover:text-blue-600"/>
                         </div>
                     </div>
 
@@ -46,9 +46,9 @@ const Skill = () => {
                             {t('skills.tools')}
                         </label>
                         <div className="flex flex-wrap gap-2">
-                            <SkillBadge icon={FaGitAlt} name="Git" hoverColor='group-hover:text-red-500'/>
-                            <SkillBadge icon={FaGithub} name="GitHub" hoverColor="group-hover:text-black"/>
-                            <SkillBadge icon={FaLinux} name="Linux" hoverColor="group-hover:text-black"/>
+                            <SkillBadge icon={FaGitAlt} name="Git" percentage={60} hoverColor='group-hover:text-red-500'/>
+                            <SkillBadge icon={FaGithub} name="GitHub" percentage={60} hoverColor="group-hover:text-black"/>
+                            <SkillBadge icon={FaLinux} name="Linux" percentage={60} hoverColor="group-hover:text-black"/>
                         </div>
                     </div>
 

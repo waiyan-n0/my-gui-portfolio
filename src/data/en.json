@@ -1,13 +1,17 @@
 {
+  "nav": {
+    "about": "About Me",
+    "edu": "Education",
+    "skills": "Skills",
+    "prj": "Projects"
+  },
   "hero": {
-    "title": "Hello, I'm Wai Yan Naing👋",
-    "subtitle": "Inventing, illustrating, and capturing beauty."
+    "title": "Hello, I'm Wai Yan Naing",
+    "subtitle": "\"Living with purpose, peace, and joy.\""
   },
   "aboutMe": {
     "title": "About Me",
-    "description1": "I am a <1>Computer Science student</1> passionate about web development and creative design. I love building projects that blend technology, and art.",
-    "description2": "Currently, I am exploring interactive front-end experiences and experimenting with machine learning.",
-    "quote": "I want to create experiences that inspire people and bring a smile to their faces.",
+    "description": "I'm a <1>Computer Science student</1> passionate about full stack development and creative design. Currently, I'm learning interactive front-end experiences, MERN Stack & Full Stack Development. I am actively looking for internship opportunities.",
     "btnDownload": "Download CV",
     "btnContact": "Contact Me"
   },
@@ -19,6 +23,9 @@
   },
   "education": {
     "title": "Education",
+    "mitta": "MITTA",
+    "mitta-name": "MITTA Private High School",
+    "mitta-year": "2020-2021",
     "university": "University Of Computer Studies (Taungoo)",
     "uni": "UCSTGO",
     "educatedYear": "2022 - Present"

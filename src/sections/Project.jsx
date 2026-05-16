@@ -27,8 +27,8 @@ const Projects = () => {
     ];
 
     return (
-        <section className="p-8 md:px-16 max-w-7xl mx-auto">
-            <h1 className="text-xl font-bold border-b-2 border-amber-400 w-fit mb-8">
+        <section className="p-8 md:px-16 max-w-7xl mx-auto scroll-mt-24" id='projects'>
+            <h1 className="text-xl font-bold border-b-2 border-blue-500 w-fit mb-8">
                 {t('project.title')}
             </h1>
 
