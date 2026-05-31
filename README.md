@@ -37,8 +37,7 @@ The primary goal of this project is to bridge the gap between academic learning 
 <img width="1892" height="913" alt="desktopView" src="https://github.com/user-attachments/assets/d20afcbc-a48a-42e1-a920-69017d4a2f13" />
 
 - Mobile View
-- <img width="1152" height="2560" alt="ph1" src="https://github.com/user-attachments/assets/30f95e52-13f0-4afd-b9ea-552ad0e253cd" />
-- <img width="1152" height="2560" alt="ph2" src="https://github.com/user-attachments/assets/b4a70e13-ca04-4948-bdfb-e1f159b766db" />
+- <img width="576" height="1280" alt="ph1" src="https://github.com/user-attachments/assets/30f95e52-13f0-4afd-b9ea-552ad0e253cd" />  <img width="576" height="1280" alt="ph2" src="https://github.com/user-attachments/assets/b4a70e13-ca04-4948-bdfb-e1f159b766db" />
 
 
 
