@@ -10,11 +10,11 @@ const Education = () => {
 
     return (
         <Reveal>
-            <section className='p-8 md:px-16 max-w-7xl mx-auto scroll-mt-24' id='education'>
+            <section className='p-6 md:px-16 max-w-7xl mx-auto scroll-mt-24' id='education'>
                 <h1 className='text-xl font-bold border-b-2 border-blue-500 w-fit mb-4'>
                     {t('education.title')}
                 </h1>
-                <div className='flex items-center gap-4 group mb-3'>
+                <div className='flex items-center gap-4 group mb-3 px-2 pb-2 rounded-xl dark:border-slate-800 bg-white dark:bg-slate-900/30 shadow-lg transition-shadow duration-300 cursor-pointer'>
                     <div className='flex-shrink-0 flex items-center justify-center'>
                         <img src={MittaLogo} alt='logo-mitta'
                              className='w-16 md:w-20 md:h-20 object-contain mt-4'
@@ -34,7 +34,7 @@ const Education = () => {
                         </div>
                     </div>
                 </div>
-                <div className='flex items-center gap-4 group'>
+                <div className='flex items-center gap-4 group px-2 pb-2 rounded-xl dark:border-slate-800 bg-white dark:bg-slate-900/30 shadow-lg transition-shadow duration-300 cursor-pointer'>
                     <div className='flex-shrink-0 flex items-center justify-center'>
                         <img src={UniLogo} alt='logo-ucstgo'
                              className='w-16 md:w-20 md:h-20 object-contain mt-4'
