@@ -9,6 +9,7 @@ import Skill from "./sections/Skill.jsx";
 import Project from "./sections/Project.jsx";
 import Footer from './sections/Footer.jsx';
 import Hamburger from "./sections/Hamburger.jsx";
+import { themeTransition } from "./hooks/helpers.js";
 
 function App() {
     const [isLoading, setIsLoading] = useState(true);
@@ -37,8 +38,11 @@ function App() {
         }
         localStorage.setItem('theme', theme);
     },[theme]);
-    const toggleTheme = () => {
-        setTheme((prevTheme)=> (prevTheme === 'light' ? 'dark' : 'light'));
+    const toggleTheme = (e) => {
+        themeTransition(e, ()=>{
+            setTheme((prevTheme)=> (prevTheme === 'light' ? 'dark' : 'light'));
+        })
+        //setTheme((prevTheme)=> (prevTheme === 'light' ? 'dark' : 'light'));
     }
     // console.log(window.innerWidth);
     return (
