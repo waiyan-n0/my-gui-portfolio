@@ -5,7 +5,7 @@
   },
   "aboutMe": {
     "title": "ကျွန်တော့်အကြောင်း",
-    "description": "ကျွန်တော်ကတော့ full stack development နဲ့ ဖန်တီးမှုပိုင်းဆိုင်ရာ ဒီဇိုင်းတွေကို ဝါသနာပါတဲ့ <1>ကွန်ပျူတာသိပ္ပံကျောင်းသား</1> တစ်ယောက်ဖြစ်ပါတယ်။ လက်ရှိမှာတော့ interactive front-end အတွေ့အကြုံတွေ၊ MERN Stack နဲ့ Full Stack Development ပိုင်းတွေကို လေ့လာနေပါတယ်။ အလုပ်သင် (Internship) အခွင့်အလမ်းများကိုလည်း တက်ကြွစွာ ရှာဖွေနေပါတယ်ဗျ။",
+    "description": "ကျွန်တော်ကတော့ full stack development နဲ့ ဖန်တီးမှုပိုင်းဆိုင်ရာ ဒီဇိုင်းတွေကို ဝါသနာပါတဲ့ <1>ကွန်ပျူတာသိပ္ပံကျောင်းသား</1> တစ်ယောက်ဖြစ်ပါတယ်။ လက်ရှိမှာတော့ interactive front-end အတွေ့အကြုံတွေ၊ MERN Stack နဲ့ Full Stack Development ပိုင်းတွေကို လေ့လာနေပါတယ်။ အလုပ်သင် (Internship) အခွင့်အလမ်းများကိုလည်း တက်ကြွစွာ ရှာဖွေနေပါတယ်ခင်ဗျ။",
     "btnDownload": "CV Form ရယူရန်",
     "btnContact": "ဆက်သွယ်ရန်"
   },
@@ -17,5 +17,17 @@
     "university": "ကွန်ပျူတာတက္ကသိုလ် (တောင်ငူ)",
     "uni": "UCSTGO",
     "educatedYear": "၂၀၂၂ မှစ၍ - ယနေ့အထိ"
+  },
+  "skills": {
+    "title": "နည်းပညာနှင့် အသုံးပြုသည့် ကိရိယာများ",
+    "frontend": "Frontend Development",
+    "backend": "Backend & Database",
+    "tools": "Cybersecurity & Tools"
+  },
+  "project": {
+    "title": "ပရောဂျက်များ",
+    "prj-0": "Love Note",
+    "prj-1": "Terminal Portfolio",
+    "prj-2": "Todo-App"
   }
 }
